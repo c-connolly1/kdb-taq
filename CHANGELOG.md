@@ -1,5 +1,10 @@
 ## Changes to kdb+taq
 
+## These changes are for CMTP Purposes 
+
+** changed on the 18/12/2024 **
+** add to a few files like README, sym and quote
+
 ### 2022.01.06 (`Bid_Price` type fix in tq.q)
 changing `Bid_Price` from real to float to avoid `Bid_Price`, `Offer_Price` type inconsistency
 
