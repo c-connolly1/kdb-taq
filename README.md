@@ -114,6 +114,10 @@ hh| numTrade maxPrice
 ## Changelog
 Detailed update history can be found in [CHANGELOG.md](CHANGELOG.md).
 
+## update README.md for CMTP 
+** THIS IS UPDATE FOR CMTP PURPOSES **
+
+
 ## Best Practices for Integration
 
 You are welcome to download and use this code according to the terms of the licence.
